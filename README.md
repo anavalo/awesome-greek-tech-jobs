@@ -16,6 +16,7 @@ A curated list of high-quality engineering and business-tech opportunities in th
 | **DeepSea** | AI / Maritime | [Careers](https://www.deepsea.ai/careers/) | [LinkedIn](https://www.linkedin.com/company/deepsea-technologies/) |
 | **Deloitte** | Consulting / Tech Hub | [Careers](https://deloittecm.avature.net/en_US/careers/SearchJobs) | [LinkedIn](https://www.linkedin.com/company/deloitte-greece/) |
 | **efood** | E-commerce / Delivery | [Careers](https://careers.deliveryhero.com/efood) | [LinkedIn](https://www.linkedin.com/company/efood-gr/) |
+| **Elastic** | Search / Data / Cloud | [Careers](https://jobs.elastic.co/jobs/country/greece) | [LinkedIn](https://www.linkedin.com/company/elastic-co/) |
 | **Epsilon Net** | Software / Finance | [Careers](https://www.epsilonnet.gr/career.aspx) | [LinkedIn](https://www.linkedin.com/company/epsilon-net/) |
 | **Eurobank** | Banking Tech | [Careers](https://www.eurobank.gr/el/omilos/anthropino-dinamiko/eykairies-apasxolisis) | [LinkedIn](https://www.linkedin.com/company/eurobank/) |
 | **European Dynamics** | IT Services | [Careers](https://www.eurodyn.com/careers/) | [LinkedIn](https://www.linkedin.com/company/european-dynamics/) |
